@@ -7,7 +7,9 @@ Backend Engineer
 I am a backend web developer with over 1 year of experience web app development. I have great exposure in JS/React and Python/Django frameworks.
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [abelfagbemi.me](http://abelfagbemi.me)
+* 🖥️  See my portfolio at [portfolio-amorgraces-projects.vercel.app
+](http://portfolio-amorgraces-projects.vercel.app
+)
 * ✉️  You can contact me at [akanforte@gmail.com](mailto:akanforte@gmail.com)
-* 🧠  I'm learning MUI
+* 🧠  I'm currently learning AI/ML
 * 🤝  I'm open to collaborating on interesting projects

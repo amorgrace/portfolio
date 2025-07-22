@@ -9,7 +9,7 @@ const nextConfig = {
     unoptimized: true,
   },
   basePath: process.env.NODE_ENV === 'production' ? '/xilder.github.io' : '',
-  output: 'export',
+  // output: 'export',
 };
 
 module.exports = nextConfig;
