@@ -227,7 +227,7 @@ function Badge({
 
 export default function Portfolio() {
   const [mounted, setMounted] = useState(false);
-  const [theme, setTheme] = useState<Theme>('corporate');
+  const [theme, setTheme] = useState<Theme>('dark');
   const [typedText, setTypedText] = useState('');
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [themeMenuOpen, setThemeMenuOpen] = useState(false);

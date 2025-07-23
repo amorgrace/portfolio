@@ -11,7 +11,7 @@ const jetbrainsMono = JetBrains_Mono({
 export const metadata: Metadata = {
   title: "Akan Sunday - Backend-Focused Fullstack Developer",
   description:
-    "Professional portfolio of Abel Fagbemi, a passionate fullstack developer specializing in backend development, scalable architectures, and robust systems.",
+    "Professional portfolio of Akan Sunday, a passionate fullstack developer specializing in backend development, scalable architectures, and robust systems.",
 };
 
 export default function RootLayout({
