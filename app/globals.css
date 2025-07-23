@@ -305,9 +305,6 @@ body {
 
 /* Responsive */
 @media (max-width: 768px) {
-  body {
-    overflow: hidden;
-  }
   .hero-name {
     font-size: 3rem;
   }
@@ -317,9 +314,6 @@ body {
 }
 
 @media (max-width: 480px) {
-    body {
-    overflow: hidden;
-  }
   .floating-element {
     display: none;
   }
